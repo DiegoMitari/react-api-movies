@@ -1,0 +1,13 @@
+.title {
+  display: inline-block;
+  color: blueviolet;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 20px;
+}
+
+
+.HomeBack {
+  display: inline-block;
+  cursor: pointer;
+}
